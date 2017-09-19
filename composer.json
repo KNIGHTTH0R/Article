@@ -1,0 +1,19 @@
+{
+    "name": "article/api",
+    "description": "This is an extension package for the article system",
+    "license": "XX-1-Clause",
+    "authors": [
+        {
+            "name": "xing xiang",
+            "email": "1427631515@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        
+    },
+    "classmap": [
+        "src/migrations",
+        "src/controllers"
+    ]
+}
